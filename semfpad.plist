@@ -28,8 +28,12 @@
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.datacvg.SEMPMobile</string>
+				<key>application-identifier</key>
+				<string>49R4P5UT8.com.datacvg.SEMF-iPa-iPad</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-ide-identifier</key>
+				<string>349R4P5UT8</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
